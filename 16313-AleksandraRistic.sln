@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16313-AleksandraRistic", "16313-AleksandraRistic\16313-AleksandraRistic.csproj", "{3DAB79F1-7C9D-4149-828E-81615B94EA33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Izgled", "Izgled\Izgled.csproj", "{FEA6033A-62D6-4985-84EE-611B2CC1886A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DAB79F1-7C9D-4149-828E-81615B94EA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAB79F1-7C9D-4149-828E-81615B94EA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAB79F1-7C9D-4149-828E-81615B94EA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAB79F1-7C9D-4149-828E-81615B94EA33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA6033A-62D6-4985-84EE-611B2CC1886A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA6033A-62D6-4985-84EE-611B2CC1886A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA6033A-62D6-4985-84EE-611B2CC1886A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA6033A-62D6-4985-84EE-611B2CC1886A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E78593C9-17EE-40E6-BE7D-B6EF86ED8991}
+	EndGlobalSection
+EndGlobal

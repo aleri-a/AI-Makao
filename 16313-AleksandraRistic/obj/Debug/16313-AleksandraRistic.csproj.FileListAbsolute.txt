@@ -1,0 +1,8 @@
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\16313-AleksandraRistic\bin\Debug\16313-AleksandraRistic.dll
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\16313-AleksandraRistic\bin\Debug\16313-AleksandraRistic.pdb
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\16313-AleksandraRistic\bin\Debug\TIG.AV.Karte.dll
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\16313-AleksandraRistic\obj\Debug\16313-AleksandraRistic.csproj.CoreCompileInputs.cache
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\16313-AleksandraRistic\obj\Debug\16313-AleksandraRistic.csproj.CopyComplete
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\16313-AleksandraRistic\obj\Debug\16313-AleksandraRistic.dll
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\16313-AleksandraRistic\obj\Debug\16313-AleksandraRistic.pdb
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\16313-AleksandraRistic\obj\Debug\16313-AleksandraRistic.csprojAssemblyReference.cache

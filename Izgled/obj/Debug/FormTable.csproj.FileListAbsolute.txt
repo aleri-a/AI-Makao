@@ -1,0 +1,16 @@
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\obj\Debug\Izgled.FormBirajBoju.resources
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\obj\Debug\Izgled.FormOpen.resources
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\obj\Debug\Izgled.FormTable.resources
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\obj\Debug\Izgled.Properties.Resources.resources
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\obj\Debug\FormTable.csproj.GenerateResource.cache
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\obj\Debug\FormTable.csproj.CoreCompileInputs.cache
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\bin\Debug\Izgled.exe.config
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\bin\Debug\Izgled.exe
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\bin\Debug\Izgled.pdb
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\bin\Debug\16313-AleksandraRistic.dll
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\bin\Debug\TIG.AV.Karte.dll
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\bin\Debug\16313-AleksandraRistic.pdb
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\obj\Debug\FormTable.csprojAssemblyReference.cache
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\obj\Debug\FormTable.csproj.CopyComplete
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\obj\Debug\Izgled.exe
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\TIG\projekat\radovi\16313-AleksandraRistic\Izgled\obj\Debug\Izgled.pdb

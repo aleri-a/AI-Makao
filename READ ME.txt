@@ -1,0 +1,29 @@
+This is project which is using Alpha Beta prunning with Transposition tables, and with limitation on time for making decision. 
+
+
+
+RULES:
+Game is similar to UNO. 
+
+1. card with num 1
+If the player on the table put 1 ie A, he must to put another card on it , if he don't have he must to buy one and if the new card is proper he can throw it but that is not mandatory, he can keep it. 
+2. card with 2 tref 
+ another player is taking 4 cards
+3. card with num 7 
+another player need to take 2 cars, or he can put another 7 and the first player need to take 4. After taking that 4 cards, if it is putted again 7 it is starting from beginning ie another person don't need to take 6cards ie he just need to take 2. 
+4. card with num 8 
+The same player is playing again
+
+5. card with num J
+This card can change the sign on the top of table.  
+
+
+
+
+BAGS in the project: 
+- on UI side it is using only one thread, it can be seen as slow updating of pictures of cards.
+- it can stop working if there is putted more times card 7, because on the side of UI, in order to prevent to calculate more times number 7 there can be found numbers such as 33,66 etc.  
+
+Positiv stuffs:
+There is implemented algorithm for puting example: 8, J, 8, A so in this case one person can win easily 
+
